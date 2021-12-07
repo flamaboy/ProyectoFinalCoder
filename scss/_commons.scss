@@ -1,0 +1,32 @@
+// Definimos varialbes globales
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+//colores
+$primary: rgb(95, 9, 9);
+$secondary: rgb(240, 179, 179);
+$third: whitesmoke;
+$red: rgb(255, 57, 57);
+
+
+// margin paddings
+$px-1:1em;
+$mx-1:1em;
+
+//display
+$d-flex:flex;
+
+// sizing
+$w-50: 50%;
+$w-75:75%;
+$w-100:100%;
+
+// dimensiones de texto
+@for $i from 1 through 3{
+.text-#{$i}{
+	font-size: 1em*$i;
+}
+}
