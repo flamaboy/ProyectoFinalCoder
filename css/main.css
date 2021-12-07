@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+.text-1 {
+  font-size: 1em; }
+
+.text-2 {
+  font-size: 2em; }
+
+.text-3 {
+  font-size: 3em; }
+
+footer {
+  color: #5f0909; }
+
+.card-header {
+  background-color: #f0b3b3; }
+
+.card-body {
+  background-color: #5f0909;
+  color: #f0b3b3; }
+
+.btn {
+  background-color: #f0b3b3;
+  color: black; }
+
+nav img {
+  width: 150px; }
+
+nav {
+  background-color: #f0b3b3; }
+
+nav {
+  text-decoration: whitesmoke; }
